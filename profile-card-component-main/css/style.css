@@ -21,6 +21,7 @@ hr {
   width: 25%;
   overflow: hidden;
   position: relative;
+  transition: 0.25s;
 }
 .container-img {
   width: 100%;
@@ -40,7 +41,7 @@ hr {
 }
 .avatar {
   background-color: white;
-  border: 5px solid white;
+  border: 6px solid white;
   border-radius: 50%;
   display: inline;
   position: absolute;
